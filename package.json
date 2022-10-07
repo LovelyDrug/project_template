@@ -1,0 +1,25 @@
+{
+  "name": "project_template",
+  "version": "1.0.0",
+  "description": "Vanilla JS project template",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LovelyDrug/project_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LovelyDrug/project_template/issues"
+  },
+  "homepage": "https://github.com/LovelyDrug/project_template#readme"
+}
